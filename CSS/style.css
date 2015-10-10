@@ -51,7 +51,6 @@ a {
 	position: relative;
 	margin: 0 auto;
 	padding: 0;
-
 }
 
 .section {
@@ -134,7 +133,7 @@ a {
 /* SECTIONS */
 .sTop {
 	min-height: 130px;
-	background:#fff;
+  background-image: url("http://smittenkitchen.com/wp-content/uploads/cannoli-pound-cake.jpg");
 	color:#3d3d3d;
 	padding: 50px 0;
 	height: 300px;
